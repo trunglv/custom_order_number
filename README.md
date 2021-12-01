@@ -54,12 +54,14 @@ Free to fix any bugs/issues of all verions of the extension (For all of a functi
 ## About Betagento: 
 My name is Luu Van Trung. Betagento is my personal bussiness to provide Magento extensions and services. 
 
+Purchase process:
 
-
+- Send me money via
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6DNEKNWFVXKKA" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
+- I will send you a access into private repository with opensource code with installation guide.
 
 
