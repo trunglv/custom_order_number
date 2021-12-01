@@ -14,6 +14,8 @@ Example, you want to make an order number like this : `DE-B2B-04-00023`. DE is c
 #### Configuration
 Go to Configuration >> Betagento >> Order Number
 --- Image ---
+![image](https://user-images.githubusercontent.com/820411/144243876-e3aba2a2-751e-46b0-ad93-3ff9c97f3b7f.png)
+
 ##### Expression:
 Variables already supported:
 ```
