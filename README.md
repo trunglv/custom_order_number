@@ -9,7 +9,7 @@ For example, you want to make an order number like this: DE-B2B-04-00023. DE is 
 
 ### Key features:
 - use institute expression to define a order number, example:  `{country_code}-{customer.customer_group}-{month}-{SEQUENCE_NUMBER}`
-- Work for Orders, Invoices and Shipments as well
+- Work for Orders, Invoices, and Shipments as well
 
 ### How to use it:
 #### Configuration
