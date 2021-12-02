@@ -16,7 +16,7 @@ Go to Configuration >> Betagento >> Order Number
 --- Image ---
 ![image](https://user-images.githubusercontent.com/820411/144243876-e3aba2a2-751e-46b0-ad93-3ff9c97f3b7f.png)
 
-##### Expression:
+##### Pattern/Expression : Where to define a format of a order numebr 
 Variables already supported:
 
 ```
