@@ -68,7 +68,7 @@ My name is Luu Van Trung. Betagento is my personal bussiness to provide Magento 
 
 Purchase process:
 
-- Send me money via a Paypal link below - or send email to request a purchase or demo:
+- Send me money via a Paypal link below - or send email (luuvantrung@gmail.com), skype: beta.trunglv to request a purchase or demo:
 
 - I will send you a access into private repository with opensource code and installation guide.
 
