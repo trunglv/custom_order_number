@@ -2,9 +2,9 @@
 ## Custom Order Number 
 
 ### Overview:
-This extension is implemented to help you manage an order number more flexible. Default order number functionality of Magento just a simple one, just manages increment numnber. You can do more with my extension.
+I implement this extension to help you manage an order number more flexibly. The default order number functionality of Magento is just a simple one; it just manages increment numbers by store scope, and you can do more with my extension.
+For example, you want to make an order number like this: DE-B2B-04-00023. DE is country code, B2B is a customer group, and 04 is a month when a customer is placing an order. So please read more detail on how to do it with my extension.
 
-Example, you want to make an order number like this : `DE-B2B-04-00023`. DE is country code, B2B is a customer group and 04 is a month when an order is created. So please read more detail how to do it with my extension.
 
 ### Key features:
 - use institute expression to define a order number, example:  `{country_code}-{customer.customer_group}-{month}-{SEQUENCE_NUMBER}`
