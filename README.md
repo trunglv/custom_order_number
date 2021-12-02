@@ -7,7 +7,7 @@ This extension is implemented to help you manage an order number more flexible. 
 Example, you want to make an order number like this : `DE-B2B-04-00023`. DE is country code, B2B is a customer group and 04 is a month when an order is created. So please read more detail how to do it with my extension.
 
 ### Key features:
-- use institute expression to define a order number, example:  `{country_code}-{customer.customer_group}-{month}-{counter}`
+- use institute expression to define a order number, example:  `{country_code}-{customer.customer_group}-{month}-{SEQUENCE_NUMBER}`
 - Work for Orders, Invoices and Shipments as well
 
 ### How to use it:
