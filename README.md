@@ -1,5 +1,5 @@
 # Betagento
-## Custom Order Number 
+## Magento2 - Custom Order Number 
 
 ### Overview:
 I implement this extension to help you manage an order number more flexibly. The default order number functionality of Magento is just a simple one; it just manages increment numbers by store scope, and you can do more with my extension.
