@@ -18,8 +18,9 @@ Go to Configuration >> Betagento >> Order Number
 
 ##### Expression:
 Variables already supported:
+
 ```
-{count} : Count
+{SEQUENCE_NUMBER} : Sequence Number (0000xxx)
 {date} : Date number 
 {month} : Month number 
 {year} : Year number
@@ -29,13 +30,15 @@ Variables already supported:
 Shipping Address attributes 
 
 ```
-billing_address.company : Company
+billing_company : Company
+billing_country_id : Country ID (DE,DK)
+billing_postcode : Country ID (DE,DK)
 ```
 Shipping Address attributes 
 
 ```
-{shipping_address.country_id} : Country 
-{shipping_address.postcode} : Post code
+{shipping_country_id} : Country 
+{shipping_postcode} : Post code
 ```
 
 If you want more, pls contact me (Trung) ["luuvantrung@gmail.com"]
