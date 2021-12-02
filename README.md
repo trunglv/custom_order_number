@@ -3,6 +3,7 @@
 
 ### Overview:
 I implement this extension to help you manage an order number more flexibly. The default order number functionality of Magento is just a simple one; it just manages increment numbers by store scope, and you can do more with my extension.
+
 For example, you want to make an order number like this: DE-B2B-04-00023. DE is country code, B2B is a customer group, and 04 is a month when a customer is placing an order. So please read more detail on how to do it with my extension.
 
 
@@ -56,7 +57,7 @@ Number zero is padded before a counter, default is 9
 Sequence number will calculate by website scope not store scope.
 
 ### Support
-Adustment or to add more features is possible -- so if you are interested, pls contact me. Again via (Trung) ["luuvantrung@gmail.com"]
+You want to adjust it or to add more features is possible -- so if you are interested, pls contact me. Again via (Trung) ["luuvantrung@gmail.com"]
 
 Issues : You can post an issues here.
 
