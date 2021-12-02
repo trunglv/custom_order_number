@@ -22,7 +22,7 @@ Go to Store >> Configuration >> Betagento >> Custom Order Number
 
 
 
-##### 1. Pattern/Expression : Where to define a format of a order numebr 
+#### 1. Pattern/Expression : Where to define a format of a order numebr 
 Variables already supported:
 
 ```
@@ -49,13 +49,13 @@ Shipping Address attributes
 
 If you want more, pls contact me (Trung) ["luuvantrung@gmail.com"]
 
-##### 2. Zero Padding : 
+#### 2. Zero Padding : 
 Number zero is padded before a counter, default is 9
 
-##### 3. Use Sequence Per Wesbite Scope : 
+#### 3. Use Sequence Per Wesbite Scope : 
 Sequence number will calculate by website scope not store scope.
 
-#### Support
+### Support
 Adustment or to add more features is possible -- so if you are interested, pls contact me. Again via (Trung) ["luuvantrung@gmail.com"]
 
 Issues : You can post an issues here.
