@@ -59,7 +59,7 @@ Sequence number will calculate by website scope not store scope.
 ### Support
 You want to adjust it or to add more features is possible -- so if you are interested, pls contact me. Again via (Trung) ["luuvantrung@gmail.com"]
 
-Issues : You can post an issues here.
+Issues : You can post an issues on a given private repository if you are allowed.
 
 Free to fix any bugs/issues of all verions of the extension (For all of a functionality term, a coding standard term, security term). Regardless, you need to pay me a coffee. 
 
