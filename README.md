@@ -12,9 +12,15 @@ Example, you want to make an order number like this : `DE-B2B-04-00023`. DE is c
 
 ### How to use it:
 #### Configuration
-Go to Configuration >> Betagento >> Order Number
---- Image ---
-![image](https://user-images.githubusercontent.com/820411/144243876-e3aba2a2-751e-46b0-ad93-3ff9c97f3b7f.png)
+Go to Store >> Configuration >> Betagento >> Custom Order Number
+
+![image](https://user-images.githubusercontent.com/820411/144455147-dbf0ef01-4250-4887-b414-1ef13ac89bb5.png)
+
+![image](https://user-images.githubusercontent.com/820411/144455202-8f7098b4-cf97-41a1-8b00-69f503c7c7b2.png)
+
+![image](https://user-images.githubusercontent.com/820411/144455233-98211803-f867-4c1e-be92-1654725b844d.png)
+
+
 
 ##### Pattern/Expression : Where to define a format of a order numebr 
 Variables already supported:
