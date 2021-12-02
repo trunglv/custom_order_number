@@ -81,5 +81,5 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
 </p>
 
-- Don't worry -- drop messages to me and video call is 
+- Don't worry -- drop messages to me and video call is welcome!
 
