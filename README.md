@@ -68,12 +68,16 @@ My name is Luu Van Trung. Betagento is my personal bussiness to provide Magento 
 
 Purchase process:
 
-- Send me money via
+- Send me money via a Paypal link below - or send email to request a purchase or demo:
+
+- I will send you a access into private repository with opensource code and installation guide.
+
+<p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6DNEKNWFVXKKA" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
-- I will send you a access into private repository with opensource code and installation guide.
+</p>
 
 
