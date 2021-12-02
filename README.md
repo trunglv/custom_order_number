@@ -62,6 +62,6 @@ target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
-- I will send you a access into private repository with opensource code with installation guide.
+- I will send you a access into private repository with opensource code and installation guide.
 
 
